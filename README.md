@@ -1,11 +1,10 @@
-LinkMe
+LinkMe Android Application and Server
 ======
 
 Mohammad Saad Khan
 
 mkhan48@gatech.edu
 
-LinkMe Android Application and Server
 
 
 LinkMe is a client-server application that allows the user to send txt files from one's laptop to their Android device.
