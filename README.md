@@ -1,7 +1,8 @@
-LinkMe 
+LinkMe
+======
+
 Mohammad Saad Khan
 mkhan48@gatech.edu
-======
 
 LinkMe Android Application and Server
 
